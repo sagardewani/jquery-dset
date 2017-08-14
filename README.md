@@ -1,18 +1,18 @@
 Dset jQuery Plugin
 
-Author: Sagar Dewani_
+# Author: Sagar Dewani_
 
-Official Website :_ HetroTech
+### Official Website :_ [HetroTech](http://hetrotech.in/)
 
-Official Email:_ info@hetrotech.in
+### Official Email:_ [info@hetrotech.in](mailto:info@hetrotech.in?subject=Support)
 
-Personal Email:_ sagar7930@gmail.com
+### Personal Email:_ [sagar7930@gmail.com](mailto:sagar7930@gmail.com?subject=droppable%20support)
 
-Facebook :_ Sagar Dewani
+### Facebook :_ [Sagar Dewani](https://www.facebook.com/sagar.dev.1426)
 
-LinkedIn:_ Sagar Dewani
+### LinkedIn:_ [Sagar Dewani](https://linkedin.com/in/sagar-kumar-3420a1b2)
 
-Updated Document would be available at : Dset Document
+### Updated Document would be available at : [Dset Document](http://hetrotech.in/projects/dset/index.html#document)
 
 HOW TO SETUP
 
